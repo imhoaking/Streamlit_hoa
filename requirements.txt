@@ -1,12 +1,5 @@
-# requirements.txt
-mysql-connector-python==8.0.29
-
 pandas
 streamlit
 numpy
-time
-matplotlib.pyplot
-plotly.figure_factory
-bokeh.plotting
 graphviz
 PIL
